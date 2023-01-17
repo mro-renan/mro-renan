@@ -1,5 +1,5 @@
 ## Olá, Bem-vindo(a) ao meu perfil do GitHub
-Me chamo Mariano Renan! Estou iniciando meus estudos na área de desenvolvimento de softwares, tenho forte interesse em desenvolvimento de aplicações web. No momento, não tenho nenhuma experiencia profissional, mas pretendo, além de adquiri-la, aprender e me tornar um bom progamador.
+Me chamo Mariano Renan! Estou iniciando meus estudos na área de desenvolvimento de softwares, tendo um forte interesse em desenvolvimento de aplicações web. No momento, não tenho nenhuma experiencia profissional, mas pretendo, além de adquiri-la, aprender e me tornar um bom progamador.
 
 Sempre que possível atualizarei aqui com projetos pessoais. Então sinta-se a vontade, e obrigado por visitar meu perfil!
 

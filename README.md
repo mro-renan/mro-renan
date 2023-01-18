@@ -5,8 +5,8 @@ Sempre que possível atualizarei aqui com projetos pessoais. Então sinta-se a v
 
  <div>
    <a href="https://github.com/mro-renan">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mro-renan&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mro-renan&layout=compact&langs_count=6&theme=dark"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mro-renan&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mro-renan&layout=compact&langs_count=6&theme=cobalt"/>
 
 </div>
 <div style="display: inline_block"><br>

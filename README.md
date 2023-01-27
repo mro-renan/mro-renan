@@ -20,7 +20,7 @@ Sempre que possível atualizarei aqui com projetos pessoais. Então sinta-se a v
   ### Meios de contato:
  
 <div> 
-  <a href="https://instagram.com/https.mariano_renan" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/https.mro_renan/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:marianorenan.pessoal@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
   ![Snake animation](https://github.com/mro-renan/mro-renan/blob/output/github-contribution-grid-snake.svg)

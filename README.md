@@ -1,5 +1,5 @@
 ## Olá, Bem-vindo(a) ao meu perfil do GitHub
-Me chamo Mariano Renan! Estou iniciando meus estudos na área de desenvolvimento de softwares, tendo um forte interesse em desenvolvimento de aplicações web. No momento, não tenho nenhuma experiencia profissional, mas pretendo, além de adquiri-la, aprender e me tornar um bom progamador.
+Me chamo Mariano Renan. Estou iniciando meus estudos na área de desenvolvimento de softwares, tendo um forte interesse em desenvolvimento de aplicações web! No momento, não tenho nenhuma experiencia no mercado de trabalho, mas pretendo, além de adquiri-la, aprender e me tornar um bom desenvolvedor.
 
 Sempre que possível atualizarei aqui com projetos pessoais. Então sinta-se a vontade, e obrigado por visitar meu perfil!
 
@@ -20,7 +20,7 @@ Sempre que possível atualizarei aqui com projetos pessoais. Então sinta-se a v
   ### Meios de contato:
  
 <div> 
-  <a href="https://www.instagram.com/https.mro_renan/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/mro_renan/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:marianorenan.pessoal@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
   ![Snake animation](https://github.com/mro-renan/mro-renan/blob/output/github-contribution-grid-snake.svg)

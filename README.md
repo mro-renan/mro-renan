@@ -1,5 +1,5 @@
 ## Hello, Welcome to my GitHub profile
-My name is Mariano Renan, and I'm just starting my studies in development. I carry with me a small baggage of knowledge, which I intend to increase!
+My name is Mariano Renan and I'm just starting my studies in development. I'm currently a student at the Federal Institute of Pernambuco - Campus Recife on the Electronics Technical course. I carry with me a small baggage of knowledge, which I intend to increase!
 
 Whenever possible, I'll update here with personal projects. So feel free to visit my profile.
 
@@ -21,3 +21,4 @@ Whenever possible, I'll update here with personal projects. So feel free to visi
  
 <div> 
  <a href="https://www.instagram.com/mro.renan/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23
+                                                                 </div>
